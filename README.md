@@ -10,7 +10,8 @@ Repositorio para armazenamento sobre git e GitHub do curso Versionamento de cód
 ## 💻 Resumos das aulas
 | Aulas | Resumos |
 |-------|---------|
-| Gravando alterações no Repositorio Local | [Resumo]()
+| Aula 01 | [Resumo]()
+| Aula 02 | [Resumo]()
 
 ```
 git init
